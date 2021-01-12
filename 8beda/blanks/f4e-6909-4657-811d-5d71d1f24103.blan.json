@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00018110956020986595,
+        "error": 0.00014708294755258448,
         "error_type": "",
         "fit": "Average_SD",
         "references": [
@@ -10,7 +10,7 @@
                 "uuid": "71257c13-f674-48c5-9254-d8ae1e5d384e"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FC-J-13304",
                 "uuid": "b8452df1-6d3b-4e5d-b6cd-c42ca8da8b58"
             },
@@ -35,7 +35,7 @@
                 "uuid": "62ac7131-7eb9-440f-a112-f03e5fa3e4f7"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FC-J-13309",
                 "uuid": "aeb411d8-2359-4e33-9d43-85cc17fbf33e"
             },
@@ -86,7 +86,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0029567159481153392
+        "value": 0.002984926759154886
     },
     "Ar37": {
         "error": 0.0054970949574648055,
@@ -356,7 +356,7 @@
         "value": 0.028301829866838685
     },
     "Ar40": {
-        "error": 0.03836035437395725,
+        "error": 0.03171201579516494,
         "error_type": "",
         "fit": "Average_SD",
         "references": [
@@ -366,7 +366,7 @@
                 "uuid": "71257c13-f674-48c5-9254-d8ae1e5d384e"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FC-J-13304",
                 "uuid": "b8452df1-6d3b-4e5d-b6cd-c42ca8da8b58"
             },
@@ -391,7 +391,7 @@
                 "uuid": "62ac7131-7eb9-440f-a112-f03e5fa3e4f7"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FC-J-13309",
                 "uuid": "aeb411d8-2359-4e33-9d43-85cc17fbf33e"
             },
@@ -442,7 +442,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.6000477539325878
+        "value": 0.5981672597784703
     },
     "Ar41": {
         "error": 0.05066855484280861,
